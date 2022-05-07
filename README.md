@@ -2,7 +2,7 @@
 ## Como funciona?
 Uma linguagem de programação feita por meme, totalmente em batch script, gerada por uma "piadinha" interna.
 (Linguagem interpretada)
-![](jaya.jpeg)
+![](jaya.jpg)
 Este ser que é o causador de tudo, por isso a escolha de batch script, já que é a linaguagem interpretada pelo Windows
 
 ## Exemplos:
