@@ -3,7 +3,8 @@
 Uma linguagem de programação feita por meme, totalmente em batch script, gerada por uma "piadinha" interna.
 (Linguagem interpretada)
 ![](jaya.jpg)
-Este ser que é o causador de tudo, por isso a escolha de batch script, já que é a linaguagem interpretada pelo Windows
+
+Este ser que é o causador de tudo, por isso a escolha de batch script, já que é a linguagem interpretada pelo Windows
 
 ## Exemplos:
 ### Hello World
