@@ -6,6 +6,9 @@ Uma linguagem de programação feita por meme, totalmente em batch script, gerad
 
 Este ser que é o causador de tudo, por isso a escolha de batch script, já que é a linguagem interpretada pelo Windows
 
+## Download
+Os arquivos .exe para download estão na pasta Binaries.
+
 ## Exemplos:
 ### Hello World
 ```
