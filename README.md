@@ -46,6 +46,14 @@ Também é possível usar o if && else sem as ()
 i en idiota
   si sim a==1 aparecer If e else
 ```
+### Comandos
+```
+i en idiota
+  hac dir
+  hac mkdir teste
+```
+A função `hac` é usada para executar comandos em Jaya
+
 ### Loops/Funções
 ```
 :loopname
